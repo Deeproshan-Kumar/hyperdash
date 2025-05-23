@@ -5,7 +5,7 @@ import Story1Img from "../../assets/images/story-1.png";
 import Story2Img from "../../assets/images/story-2.png";
 import Story3Img from "../../assets/images/story-3.png";
 
-import "swiper/css";
+import "swiper/swiper-bundle.css";
 
 const Stories: React.FC = () => {
   return (
