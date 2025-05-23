@@ -1,6 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import Story from "../ui/Story";
-import { Navigation } from "swiper/modules";
 
 import Story1Img from "../../assets/images/story-1.png";
 import Story2Img from "../../assets/images/story-2.png";
